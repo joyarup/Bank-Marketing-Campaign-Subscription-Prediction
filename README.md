@@ -15,9 +15,6 @@ The models demonstrated robust performance, with the ensemble method slightly ou
 ## Conclusion
 The study highlights the effectiveness of comprehensive data preprocessing and advanced modeling techniques in tackling imbalanced datasets. Through scientific exploration and tuning, we developed predictive models that provide insights for optimizing bank marketing campaigns.
 
-## Visualizations
-[Include visualizations here]
-
 ## How to Run
 Run the Jupyter notebook.
 
